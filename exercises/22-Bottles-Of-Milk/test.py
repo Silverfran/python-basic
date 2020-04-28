@@ -214,7 +214,8 @@ Take one down and pass it around, 7 bottles of milk on the wall.
 Take one down and pass it around, 6 bottles of milk on the wall.
 6 bottles of milk on the wall, 6 bottles of milk.
 Take one down and pass it around, 5 bottles of milk on the wall.
-5 bottles of milk on the wall, 5 bottles of milk.\nTake one down and pass it around, 4 bottles of milk on the wall.
+5 bottles of milk on the wall, 5 bottles of milk.
+Take one down and pass it around, 4 bottles of milk on the wall.
 4 bottles of milk on the wall, 4 bottles of milk.
 Take one down and pass it around, 3 bottles of milk on the wall.
 3 bottles of milk on the wall, 3 bottles of milk.
